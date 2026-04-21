@@ -33,7 +33,7 @@ I am a research-driven Computer Science undergraduate focused on **Artificial In
 ## ✨ Tech Arsenal
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,c,java,linux" />
+<img src="https://skillicons.dev/icons?i=python,c,cpp,java,linux" />
 </p>
 
 ---
