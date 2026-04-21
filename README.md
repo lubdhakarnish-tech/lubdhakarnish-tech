@@ -1,16 +1,39 @@
-## Hi there 👋
+# 👋 Hi, I'm Arnish Saha
 
-<!--
-**lubdhakarnish-tech/lubdhakarnish-tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 AI | Computer Vision | Robotics
 
-Here are some ideas to get you started:
+🎓 CSE Undergraduate  
+🔬 Research in AI Perception & Autonomous Systems  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🌐 Connect With Me
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-Gold?style=for-the-badge)](https://arnish06.netlify.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge)](https://www.linkedin.com/in/lubdhak-nairith-saha-2761182a0)
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge)](https://github.com/lubdhakarnish-tech)
+
+---
+
+## 🧠 About Me
+
+I work on:
+- Computer Vision  
+- Autonomous Systems  
+- Robotics + AI  
+
+Focused on building **real-world intelligent systems**
+
+---
+
+## 📊 GitHub Stats
+
+![Arnish's GitHub stats](https://github-readme-stats.vercel.app/api?username=lubdhakarnish-tech&show_icons=true)
+
+---
+
+## ⚡ Projects
+
+- 🚗 Vision-Based Navigation System  
+- 🌱 GRU-based Plant Stress Prediction  
+- 🤖 IoT Smart Agriculture System  
