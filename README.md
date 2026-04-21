@@ -30,29 +30,36 @@ I am a research-driven Computer Science undergraduate focused on **Artificial In
 
 ---
 
-# ✨ Tech Arsenal
+## ✨ Tech Arsenal
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,c,java,sql,opencv,linux,raspberrypi,arduino" />
+<img src="https://skillicons.dev/icons?i=python,c,java,linux,raspberrypi,arduino" />
 </p>
 
 ---
 
-# ✨ AI & Data Stack
+## ✨ AI / ML Stack
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=numpy,pandas,scikitlearn" />
-<img src="https://img.shields.io/badge/YOLOv3-FF6F00?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/GRU-Deep%20Learning-blue?style=for-the-badge"/>
+</p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/OpenCV-Computer%20Vision-green?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/YOLOv3-Object%20Detection-orange?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/GRU-Time%20Series-blue?style=for-the-badge"/>
 </p>
 
 ---
-
-# ✨ Tools & Workflow
+## ✨ Tools & Workflow
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</p>
+
+<p align="center">
 <img src="https://img.shields.io/badge/ESP32-IoT-orange?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Raspberry%20Pi-Embedded-red?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/ROS2-Robotics-blue?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/AWS-Cloud-black?style=for-the-badge"/>
 </p>
