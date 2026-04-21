@@ -1,8 +1,9 @@
-<h1 align="center">Lubdhak Nairith Saha Arnish</h1>
-<h3 align="center">AI Perception • Computer Vision • Robotics • Autonomous Systems</h3>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:1f1c2c&height=220&section=header&text=Lubdhak%20Nairith%20Saha%20Arnish&fontSize=38&fontColor=ffffff&animation=fadeIn"/>
+</p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:1f1c2c&height=200&section=header&text=AI%20%7C%20Robotics%20%7C%20Research&fontSize=30&fontColor=ffffff"/>
+  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=2500&color=00C2FF&center=true&vCenter=true&width=800&lines=Building+Intelligent+Systems;Working+on+Computer+Vision;Exploring+Autonomous+Navigation;Research+Driven+Engineering"/>
 </p>
 
 <p align="center">
