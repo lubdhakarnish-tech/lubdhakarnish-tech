@@ -1,135 +1,187 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:1f1c2c&height=220&section=header&text=Lubdhak%20Nairith%20Saha%20Arnish&fontSize=38&fontColor=ffffff&animation=fadeIn"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:1f1c2c&height=220&section=header&text=Lubdhak%20Nairith%20Saha%20Arnish&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=2500&color=00C2FF&center=true&vCenter=true&width=800&lines=Building+Intelligent+Systems;Working+on+Computer+Vision;Exploring+Autonomous+Navigation;Research+Driven+Engineering"/>
+  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=2500&color=00C2FF&center=true&vCenter=true&width=800&lines=AI+%7C+Computer+Vision+%7C+Robotics;Building+Real-World+Intelligent+Systems;Autonomous+Navigation+%26+Perception;Research-Driven+Engineering"/>
 </p>
 
 <p align="center">
   <a href="https://arnish06.netlify.app">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=google-chrome&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/lubdhak-nairith-saha-2761182a0">
-    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:lubdhakarnish@gmail.com">
-    <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-## ✨ About Me
-
-I am a research-driven Computer Science undergraduate focused on **Artificial Intelligence, Computer Vision, and Robotics systems**.
-
-- Building real-time perception systems  
-- Working on autonomous decision-making  
-- Developing IoT + edge-based intelligent systems  
-- Preparing for **Master’s & PhD in AI perception and autonomous systems**
-
----
-
-## ✨ Tech Arsenal
-
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,c,cpp,java,linux" />
+  <img src="https://komarev.com/ghpvc/?username=lubdhakarnish-tech&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
 ---
 
-## ✨ AI Stack & Tools
+## 🧠 About Me
+<table>
+<tr>
+
+<td width="55%" valign="top">
+
+🎓 **Education**
+
+**B.Tech (CSE) & Minor in Applied ML, KIIT University (2023 - 2027)**
+
+
+**Higher Secondary Certificate (HSC), Notre Dame College, Dhaka (2020-2022)**
+
+GPA: 5.0
+
+---
+
+🔬 **Current Focus**
+
+* Real-time perception pipelines
+* Vision-based navigation systems
+* Biomedical image processing and analysis
+* Edge AI + IoT integration
+
+</td>
+
+<td width="45%" align="center" valign="top">
+
+<img src="https://raw.githubusercontent.com/lubdhakarnish-tech/lubdhakarnish-tech/main/WhatsApp%20Image%202026-04-26%20at%2016.47.40.jpeg" width="95%" style="border-radius: 15px; border: 3px solid #00C2FF;" />
+
+</td>
+
+</tr>
+</table>
+
+
+🎯 Goal: Pursuing **MS/PhD in AI Perception & Intelligent Robotics**
+
+---
+
+## ⚙️ Programming Languages
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,cpp,c,java" />
+</p>
+
+---
+
+## 🧰 Tools & Platforms
 
 <table align="center">
 <tr>
-<td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="50"/></td>
-<td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="50"/></td>
-<td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" width="50"/></td>
-<td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" width="50"/></td>
-<td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="50"/></td>
-<td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="50"/></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=linux" width="50"/></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=git" width="50"/></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=github" width="50"/></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=vscode" width="50"/></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=arduino" width="50"/></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=raspberrypi" width="50"/></td>
 </tr>
 
 <tr>
-<td><img src="https://skillicons.dev/icons?i=git" width="50"/></td>
-<td><img src="https://skillicons.dev/icons?i=github" width="50"/></td>
-<td><img src="https://skillicons.dev/icons?i=vscode" width="50"/></td>
-<td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg" width="50"/></td>
-<td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/raspberrypi/raspberrypi-original.svg" width="50"/></td>
-<td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="50"/></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=pytorch" width="50"/></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=tensorflow" width="50"/></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=opencv" width="50"/></td>
+<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="50" style="background-color:#0d1117;padding:8px;border-radius:10px;"/></td>
+<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="50" style="background-color:#0d1117;padding:8px;border-radius:10px;"/></td>
+<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="50" style="background-color:#0d1117;padding:8px;border-radius:10px;"/></td>
 </tr>
 </table>
 
 <p align="center">
-ROS2 • AWS • IoT • Robotics • Embedded Systems
+<b>ROS2</b> • <b>AWS</b> • <b>Embedded Systems</b> • <b>IoT</b>
 </p>
+
 
 ---
 
-# 🚀 Featured Projects
+# 🚀 Key Projects
 
 ### 🔹 Vision-Based Navigation Assistant
-- YOLOv3-tiny + OpenCV real-time detection  
-- Sector-based navigation (FORWARD / LEFT / RIGHT / STOP)  
-- Temporal smoothing for stable decisions  
+
+* YOLOv3-tiny + OpenCV for real-time perception
+* Region-based navigation (FORWARD / LEFT / RIGHT / STOP)
+* Temporal smoothing for stable decisions
 
 ---
 
 ### 🔹 GRU-Based Plant Stress Prediction
-- Time-series modeling using environmental sensor data  
-- Multi-parameter inputs (temperature, humidity, soil moisture)  
-- Early-stage stress prediction  
+
+* Time-series forecasting using environmental data
+* Multi-sensor fusion (temperature, humidity, soil moisture)
+* Early anomaly detection
 
 ---
 
-### 🔹 Low-Latency Teleoperation (4G/5G)
-- Raspberry Pi + AWS edge system  
-- Network-aware communication (latency, packet loss)  
-- Real-time control & feedback  
+### 🔹 Low-Latency Teleoperation System
+
+* Raspberry Pi + AWS edge integration
+* Network-aware adaptive streaming
+* Real-time feedback control over 4G/5G
 
 ---
 
-### 🔹 IoT Smart Plant Monitoring System
-- ESP32 + multi-sensor integration  
-- Automated irrigation + cloud dashboard  
-- Real-time monitoring & control  
+### 🔹 Smart IoT Plant Monitoring
+
+* ESP32 + sensor network
+* Automated irrigation + cloud dashboard
+* Real-time analytics & control
 
 ---
 
-# 📊 GitHub Insights
+# 📊 GitHub Analytics
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=lubdhakarnish-tech&show_icons=true&theme=tokyonight"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=lubdhakarnish-tech&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api?username=lubdhakarnish-tech&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=lubdhakarnish-tech&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
-# 📈 Contribution Graph
+# 📈 Activity Graph
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=lubdhakarnish-tech&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=lubdhakarnish-tech&theme=tokyo-night&hide_border=true"/>
 </p>
 
 ---
 
 # 🎯 Research Interests
 
-- Autonomous Navigation Systems  
-- Computer Vision for Real-world Perception  
-- Human-in-the-loop Teleoperation  
-- Sensor Fusion & Edge AI  
-- Intelligent Robotics Systems  
+* Autonomous Navigation
+* Vision-Based Perception Systems
+* Human-in-the-loop Robotics
+* Sensor Fusion & Edge Intelligence
+* Intelligent Decision Systems
+* Computer Vision for Real-World and Biomedical Applications
 
 ---
 
-# 🧭 Long-Term Vision
+# ⚡ Keep Going — No Matter What
 
-To build intelligent systems that **perceive, decide, and act autonomously in real-world environments**.
+<p align="center">
+<p align="center">
+<img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
+<p align="center">
+<b>Obstacles will come. Eat them. Keep moving forward.</b>
+</p>
+
+# 🚀 Vision
+
+To design and deploy **intelligent systems that perceive, reason, and act in real-world environments**.
 
 ---
 
 <p align="center">
-<i>"Building intelligence beyond code — into real-world systems."</i>
+<i>"Engineering intelligence from perception to action."</i>
 </p>
