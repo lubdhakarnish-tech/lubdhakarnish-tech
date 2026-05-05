@@ -140,11 +140,10 @@ GPA: 5.0
 # 📊 GitHub Analytics
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=lubdhakarnish-tech&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=lubdhakarnish-tech&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=lubdhakarnish-tech&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=lubdhakarnish-tech&theme=tokyonight&hide_border=true"/>
 </p>
 
----
 
 # 📈 Activity Graph
 
